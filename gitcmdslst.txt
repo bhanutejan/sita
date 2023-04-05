@@ -10,7 +10,7 @@ git add <file name> - this command will allows us to add files
 git add <file_name/> - this command will track all files inside the directory
 git commit -m "message" - this command is used to commit our changes
 git push -u origin main - this command is used to push our changes to remote repository 
-git log - this command will gives the commits history
+git log - this command will gives the commits history (use "q" to exit from git log)
 
 Day 2 
 --------
@@ -18,6 +18,12 @@ git branch - this command will display the branch
 git branch <new_branch_name> - this command will create new branch 
 git checkout <branch_name> - this command will allows us to switch branch
 git checkout -b <new_branch_name> <source_branch> - this command will create a new branch and switch to that branch from source branch
+
+Day 3
+-------
+git add . ; git commit -m "message" ; git push origin master ---> multiple git command can be executed on single line using ";"
+
+
 
  
 
