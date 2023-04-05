@@ -1,24 +1,13 @@
-hi you are sita folder
-Hey man how are you 
-Hello Durga Bhavani
-Hey Pandu ranga 
-Nammaka Tappani nijamaina
-
 cd
 cd sita
 pwd
 ls
-git init
-git status
-git add <file name>
-git commit -m "message"
-git push -u origin main
-git log 
-<<<<<<< HEAD
---------------------------
-code writing for feature1
---------------------------
-=======
-
-writing code for feature2
+git init - this command will make our directory as local repository
+git status - this command will display the status or untracked and tracked files
+git add <file name> - this command will allows us to add files
+git add <file_name/> - this command will track all files inside the directory
+git commit -m "message" - this command is used to commit our changes
+git push -u origin main - this command is used to push our changes to remote repository 
+git log - this command will gives the commits history
+git branch - this command will display the branch.
 
