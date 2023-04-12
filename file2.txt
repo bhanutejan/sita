@@ -2,3 +2,10 @@ Hi Guys
 How are you 
 
 Hello World
+git init
+git status
+git config user.name 
+git config user.email
+git push origin master/main
+git remote add origin <>[Dlink>
+git branch 
